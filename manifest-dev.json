@@ -27,7 +27,7 @@
   "createdAt": "2023-09-03",
   "gateway": "http://localhost:3400/api/gateway",
   "homepage": "https://github.com/lobehub/chat-plugin-template",
-  "identifier": "plugin-identifier",
+  "identifier": "closeMachineplugin-identifier",
   "meta": {
     "avatar": "🚀",
     "tags": ["template"],
