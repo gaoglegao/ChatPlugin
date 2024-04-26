@@ -2,7 +2,7 @@
   "$schema": "../node_modules/@lobehub/chat-plugin-sdk/schema.json",
   "api": [
     {
-      "url": "http://localhost:3400/api/clothes",
+      "url": "https://httpbin.org/get",
       "name": "closeMachine",
       "description": "关闭我的热水器的接口",
       "parameters": {
