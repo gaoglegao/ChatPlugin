@@ -31,7 +31,7 @@
   "meta": {
     "avatar": "🚀",
     "tags": ["template"],
-    "title": "closeMachinePlugin",
+    "title": "closeMachinePluginApi",
     "description": "This is the plugin template for LobeChat plugin development"
   },
   "ui": {
