@@ -2,7 +2,7 @@
   "$schema": "../node_modules/@lobehub/chat-plugin-sdk/schema.json",
   "api": [
     {
-      "url": "https://httpbin.org/get",
+      "url": "https://vercel-demo-sigma-pied.vercel.app/",
       "name": "closeMachine",
       "description": "关闭我的热水器的接口",
       "parameters": {
