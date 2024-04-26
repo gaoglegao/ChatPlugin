@@ -27,11 +27,11 @@
   "createdAt": "2023-09-03",
   "gateway": "",
   "homepage": "https://github.com/lobehub/chat-plugin-template",
-  "identifier": "closeMachineplugin-identifier2",
+  "identifier": "closeMachineplugin-identifier3",
   "meta": {
     "avatar": "🚀",
     "tags": ["template"],
-    "title": "closeMachinePluginApi2",
+    "title": "closeMachinePluginApi3",
     "description": "This is the plugin template for LobeChat plugin development"
   },
   "ui": {
