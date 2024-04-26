@@ -3,8 +3,8 @@
   "api": [
     {
       "url": "http://localhost:3400/api/clothes",
-      "name": "recommendClothes",
-      "description": "根据用户的心情，给用户推荐他有的衣服",
+      "name": "closeMachine",
+      "description": "关闭我的热水器的接口",
       "parameters": {
         "properties": {
           "mood": {
@@ -23,7 +23,7 @@
       }
     }
   ],
-  "author": "LobeHub",
+  "author": "gaogle",
   "createdAt": "2023-09-03",
   "gateway": "http://localhost:3400/api/gateway",
   "homepage": "https://github.com/lobehub/chat-plugin-template",
