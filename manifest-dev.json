@@ -2,7 +2,7 @@
   "$schema": "../node_modules/@lobehub/chat-plugin-sdk/schema.json",
   "api": [
     {
-      "url": "https://vercel-demo-sigma-pied.vercel.app/",
+      "url": "https://crypt-beta.vercel.app/api/crypto?token=1d640ca0-09e8-4058-aa31-fa33c4c6027f",
       "name": "closeMachine",
       "description": "关闭我的热水器的接口",
       "parameters": {
@@ -27,11 +27,11 @@
   "createdAt": "2023-09-03",
   "gateway": "",
   "homepage": "https://github.com/lobehub/chat-plugin-template",
-  "identifier": "closeMachineplugin-identifier4",
+  "identifier": "closeMachineplugin-identifier5",
   "meta": {
     "avatar": "🚀",
     "tags": ["template"],
-    "title": "closeMachinePluginApi4",
+    "title": "closeMachinePluginApi5",
     "description": "This is the plugin template for LobeChat plugin development"
   },
   "ui": {
